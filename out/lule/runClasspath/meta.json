@@ -1,0 +1,9 @@
+{
+    "value": [
+        "ref:c984eca8:/home/jonne007/work/123/lule/resources",
+        "ref:62f31b10:/home/jonne007/work/123/out/lule/compile/dest/classes",
+        "qref:5d38ced0:/home/jonne007/work/123/.coursier/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.4/scala-library-2.13.4.jar"
+    ],
+    "valueHash": 1556586856,
+    "inputsHash": 1362276190
+}
