@@ -1,8 +1,8 @@
 {
     "value": [
-        "ref:e7bab38e:/home/jonne007/work/123/lule/src/main.scala",
-        "ref:fe3f1b4f:/home/jonne007/work/123/lule/src/demo/types.scala"
+        "ref:2f5c22d8:/home/jonne007/work/123/lule/src/Main.scala",
+        "ref:0a33c67f:/home/jonne007/work/123/lule/src/demo/Types.scala"
     ],
-    "valueHash": 1821201151,
-    "inputsHash": -902046771
+    "valueHash": -509004300,
+    "inputsHash": 239346551
 }
