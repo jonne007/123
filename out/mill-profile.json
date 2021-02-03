@@ -1,22 +1,22 @@
 [
     {
         "label": "lule.mainClass",
-        "millis": 78,
+        "millis": 33,
         "cached": false
     },
     {
         "label": "mill.scalalib.ZincWorkerModule.classpath",
-        "millis": 19559,
+        "millis": 5138,
         "cached": false
     },
     {
         "label": "mill.scalalib.ZincWorkerModule.worker",
-        "millis": 44,
+        "millis": 37,
         "cached": false
     },
     {
         "label": "lule.upstreamCompileOutput",
-        "millis": 2,
+        "millis": 3,
         "cached": false
     },
     {
@@ -26,42 +26,42 @@
     },
     {
         "label": "lule.generatedSources",
-        "millis": 4,
+        "millis": 1,
         "cached": false
     },
     {
         "label": "lule.allSources",
-        "millis": 1,
+        "millis": 4,
         "cached": false
     },
     {
         "label": "lule.allSourceFiles",
-        "millis": 7,
+        "millis": 8,
         "cached": false
     },
     {
         "label": "lule.transitiveLocalClasspath",
-        "millis": 1,
+        "millis": 3,
         "cached": false
     },
     {
         "label": "lule.resources",
-        "millis": 2,
+        "millis": 6,
         "cached": false
     },
     {
         "label": "lule.unmanagedClasspath",
-        "millis": 2,
-        "cached": false
-    },
-    {
-        "label": "lule.scalaVersion",
         "millis": 1,
         "cached": false
     },
     {
-        "label": "lule.platformSuffix",
+        "label": "lule.scalaVersion",
         "millis": 2,
+        "cached": false
+    },
+    {
+        "label": "lule.platformSuffix",
+        "millis": 1,
         "cached": false
     },
     {
@@ -71,17 +71,17 @@
     },
     {
         "label": "lule.transitiveCompileIvyDeps",
-        "millis": 2,
+        "millis": 3,
         "cached": false
     },
     {
         "label": "lule.scalaOrganization",
-        "millis": 4,
+        "millis": 6,
         "cached": false
     },
     {
         "label": "lule.scalaLibraryIvyDeps",
-        "millis": 25,
+        "millis": 42,
         "cached": false
     },
     {
@@ -91,12 +91,12 @@
     },
     {
         "label": "lule.transitiveIvyDeps",
-        "millis": 4,
+        "millis": 2,
         "cached": false
     },
     {
         "label": "lule.resolvedIvyDeps",
-        "millis": 8408,
+        "millis": 905,
         "cached": false
     },
     {
@@ -106,7 +106,7 @@
     },
     {
         "label": "lule.javacOptions",
-        "millis": 1,
+        "millis": 2,
         "cached": false
     },
     {
@@ -116,52 +116,52 @@
     },
     {
         "label": "lule.scalaCompilerClasspath",
-        "millis": 15946,
+        "millis": 1359,
         "cached": false
     },
     {
         "label": "lule.scalacPluginIvyDeps",
-        "millis": 1,
+        "millis": 2,
         "cached": false
     },
     {
         "label": "lule.scalacPluginClasspath",
-        "millis": 3,
+        "millis": 2,
         "cached": false
     },
     {
         "label": "lule.compile",
-        "millis": 18908,
+        "millis": 14546,
         "cached": false
     },
     {
         "label": "lule.finalMainClassOpt",
-        "millis": 39,
+        "millis": 26,
         "cached": false
     },
     {
         "label": "lule.finalMainClass",
-        "millis": 1,
+        "millis": 2,
         "cached": false
     },
     {
         "label": "lule.localClasspath",
-        "millis": 2,
+        "millis": 1,
         "cached": false
     },
     {
         "label": "lule.runIvyDeps",
-        "millis": 2,
+        "millis": 4,
         "cached": false
     },
     {
         "label": "lule.resolvedRunIvyDeps",
-        "millis": 32,
+        "millis": 10,
         "cached": false
     },
     {
         "label": "lule.upstreamAssemblyClasspath",
-        "millis": 2,
+        "millis": 1,
         "cached": false
     },
     {
@@ -176,17 +176,17 @@
     },
     {
         "label": "lule.forkEnv",
-        "millis": 7,
-        "cached": false
-    },
-    {
-        "label": "lule.forkWorkingDir",
         "millis": 5,
         "cached": false
     },
     {
+        "label": "lule.forkWorkingDir",
+        "millis": 1,
+        "cached": false
+    },
+    {
         "label": "lule.run",
-        "millis": 349,
+        "millis": 266,
         "cached": false
     }
 ]

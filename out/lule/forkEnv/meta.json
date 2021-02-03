@@ -7,6 +7,7 @@
         "WSL_INTEROP": "/run/WSL/8_interop",
         "USER": "jonne007",
         "HOSTTYPE": "x86_64",
+        "MOTD_SHOWN": "update-motd",
         "_": "/usr/local/bin/mill",
         "GIT_ASKPASS": "/home/jonne007/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/git/dist/askpass.sh",
         "LANG": "C.UTF-8",
@@ -31,9 +32,9 @@
         "BROWSER": "/home/jonne007/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/bin/helpers/browser.sh",
         "TERM_PROGRAM_VERSION": "1.52.1",
         "PWD": "/home/jonne007/work/123",
-        "VSCODE_IPC_HOOK_CLI": "/tmp/vscode-ipc-7f6bc491-93c8-4faf-a97b-f0ab49db1812.sock",
+        "VSCODE_IPC_HOOK_CLI": "/tmp/vscode-ipc-43b0c4b0-02ce-47b3-bc72-953bfcb15812.sock",
         "WSLENV": "ELECTRON_RUN_AS_NODE/w:"
     },
-    "valueHash": -13481035,
+    "valueHash": -778347770,
     "inputsHash": 1730240517
 }

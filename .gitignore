@@ -2,4 +2,4 @@ out/
 .metals
 .bloop
 .vscode
-.coursier
+.coursierout
