@@ -1,7 +1,7 @@
 {
-    "value": {
-        "$type": "scala.None"
-    },
-    "valueHash": 2433880,
-    "inputsHash": 1730240517
+    "value": [
+        "Main"
+    ],
+    "valueHash": 663555864,
+    "inputsHash": 108371775
 }

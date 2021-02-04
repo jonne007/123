@@ -2,12 +2,12 @@
     "value": {
         "TERM": "xterm-256color",
         "LESSCLOSE": "/usr/bin/lesspipe %s %s",
-        "OLDPWD": "/home/jonne007/work",
         "NAME": "Code",
         "VERBOSE_LOGGING": "true",
         "WSL_INTEROP": "/run/WSL/8_interop",
         "USER": "jonne007",
         "HOSTTYPE": "x86_64",
+        "MOTD_SHOWN": "update-motd",
         "_": "/usr/local/bin/mill",
         "GIT_ASKPASS": "/home/jonne007/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/extensions/git/dist/askpass.sh",
         "LANG": "C.UTF-8",
@@ -32,9 +32,9 @@
         "BROWSER": "/home/jonne007/.vscode-server/bin/ea3859d4ba2f3e577a159bc91e3074c5d85c0523/bin/helpers/browser.sh",
         "TERM_PROGRAM_VERSION": "1.52.1",
         "PWD": "/home/jonne007/work/123",
-        "VSCODE_IPC_HOOK_CLI": "/tmp/vscode-ipc-21296b3c-2042-4f19-962f-e598c30c9c36.sock",
+        "VSCODE_IPC_HOOK_CLI": "/tmp/vscode-ipc-09b7fdaf-842a-4060-88c9-f30e3df9c2f1.sock",
         "WSLENV": "ELECTRON_RUN_AS_NODE/w:"
     },
-    "valueHash": -2138386605,
-    "inputsHash": 1730240517
+    "valueHash": 60999472,
+    "inputsHash": 108371775
 }
