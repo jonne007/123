@@ -1,10 +1,11 @@
 {
     "value": [
-        "ref:541bfb3b:/home/jonne007/work/123/lule/src/Main.scala",
+        "ref:3630c491:/home/jonne007/work/123/lule/src/Main.scala",
+        "ref:3ae676ef:/home/jonne007/work/123/lule/src/demo/Dice.scala",
         "ref:fcf9f57a:/home/jonne007/work/123/lule/src/demo/Loops.scala",
         "ref:ebb7a5cf:/home/jonne007/work/123/lule/src/demo/Types.scala",
         "ref:f2243f17:/home/jonne007/work/123/lule/src/HelloInteractive.scala"
     ],
-    "valueHash": 963697134,
-    "inputsHash": 988651090
+    "valueHash": -1700387171,
+    "inputsHash": 1966386569
 }
