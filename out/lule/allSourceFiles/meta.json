@@ -1,12 +1,12 @@
 {
     "value": [
-        "ref:a343ffd7:/home/jonne007/work/123/lule/src/Quiz.scala",
         "ref:d41bd54f:/home/jonne007/work/123/lule/src/Main.scala",
-        "ref:3ae676ef:/home/jonne007/work/123/lule/src/demo/Dice.scala",
+        "ref:4db1ebff:/home/jonne007/work/123/lule/src/demo/Quiz.scala",
+        "ref:60b674bf:/home/jonne007/work/123/lule/src/demo/Dice.scala",
         "ref:fcf9f57a:/home/jonne007/work/123/lule/src/demo/Loops.scala",
         "ref:ebb7a5cf:/home/jonne007/work/123/lule/src/demo/Types.scala",
         "ref:f2243f17:/home/jonne007/work/123/lule/src/HelloInteractive.scala"
     ],
-    "valueHash": -1803084164,
-    "inputsHash": -1068820410
+    "valueHash": -1533908725,
+    "inputsHash": -624514645
 }
