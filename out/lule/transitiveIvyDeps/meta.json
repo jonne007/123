@@ -1,7 +1,47 @@
 {
     "value": [
-        
+        {
+            "dep": {
+                "module": {
+                    "organization": {
+                        "value": "org.scalafx"
+                    },
+                    "name": {
+                        "value": "scalafx"
+                    },
+                    "attributes": {
+                        
+                    }
+                },
+                "version": "15.0.1-R21",
+                "configuration": {
+                    "value": "default(compile)"
+                },
+                "exclusions": [
+                    
+                ],
+                "publication": {
+                    "name": "",
+                    "type": {
+                        "value": ""
+                    },
+                    "ext": {
+                        "value": ""
+                    },
+                    "classifier": {
+                        "value": ""
+                    }
+                },
+                "optional": false,
+                "transitive": true
+            },
+            "cross": {
+                "$type": "mill.scalalib.CrossVersion.Binary",
+                "platformed": false
+            },
+            "force": false
+        }
     ],
-    "valueHash": 0,
-    "inputsHash": 869953271
+    "valueHash": 2026677445,
+    "inputsHash": 355824944
 }

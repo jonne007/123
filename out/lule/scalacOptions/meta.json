@@ -1,7 +1,9 @@
 {
     "value": [
-        
+        "-deprecation",
+        "-encoding",
+        "utf-8"
     ],
-    "valueHash": 473519988,
-    "inputsHash": 108371775
+    "valueHash": 1990554659,
+    "inputsHash": 2020802594
 }
