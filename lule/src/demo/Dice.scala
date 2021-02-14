@@ -13,7 +13,7 @@ object Dice {
 
     if (summa == guess)
       println("Grattis du gissade rätt")
-    else {
+    else { ()
       val diff = Math.abs(guess - summa)
       println(s"fel, du missa med $diff")
     }

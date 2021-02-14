@@ -21,7 +21,7 @@
     },
     {
         "label": "lule.test.resources",
-        "millis": 1,
+        "millis": 2,
         "cached": false
     },
     {
@@ -36,12 +36,12 @@
     },
     {
         "label": "lule.upstreamCompileOutput",
-        "millis": 1,
+        "millis": 0,
         "cached": true
     },
     {
         "label": "lule.sources",
-        "millis": 0,
+        "millis": 1,
         "cached": false
     },
     {
@@ -66,7 +66,7 @@
     },
     {
         "label": "lule.resources",
-        "millis": 1,
+        "millis": 2,
         "cached": false
     },
     {
@@ -146,12 +146,147 @@
     },
     {
         "label": "lule.scalacPluginClasspath",
-        "millis": 0,
+        "millis": 1,
         "cached": true
     },
     {
         "label": "lule.compile",
-        "millis": 62,
+        "millis": 165,
+        "cached": false
+    },
+    {
+        "label": "lule.test.upstreamCompileOutput",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "lule.test.sources",
+        "millis": 0,
+        "cached": false
+    },
+    {
+        "label": "lule.test.generatedSources",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.allSources",
+        "millis": 1,
+        "cached": true
+    },
+    {
+        "label": "lule.test.allSourceFiles",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.localClasspath",
+        "millis": 0,
+        "cached": false
+    },
+    {
+        "label": "lule.test.transitiveLocalClasspath",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "lule.test.unmanagedClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.scalaVersion",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.platformSuffix",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.compileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.transitiveCompileIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.scalaOrganization",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.scalaLibraryIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.ivyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.transitiveIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.resolvedIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.compileClasspath",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "lule.test.scalaCompilerClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.compile",
+        "millis": 16,
+        "cached": false
+    },
+    {
+        "label": "lule.test.localClasspath",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.runIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.resolvedRunIvyDeps",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.upstreamAssemblyClasspath",
+        "millis": 3,
+        "cached": false
+    },
+    {
+        "label": "lule.test.runClasspath",
+        "millis": 1,
+        "cached": false
+    },
+    {
+        "label": "lule.test.forkWorkingDir",
+        "millis": 0,
+        "cached": true
+    },
+    {
+        "label": "lule.test.test",
+        "millis": 985,
         "cached": false
     }
 ]

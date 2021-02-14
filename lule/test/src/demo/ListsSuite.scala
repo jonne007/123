@@ -5,15 +5,37 @@ import utest._
 object ListsSuite extends TestSuite {
   val tests = Tests {
 
-    test("endsWith") - {
+    test("startwith") - { 
+      val list = List(1, 2, 3, 4, 5)
+      val start = 1
+      
+      var r = Lists.startsWithInt(start, list)
 
-      val list = List(11, 12, 33, 44, 55)
+      assert {
+        r == (true)
+      }
 
-      var r = Lists.endsWith(3, list)
+    }
+
+    test("endsWith false") - {
+      val list: List[Int] = List(1, 2, 3, 4, 5)
+      val end = List(3, 4)
+      val r = Lists.endsWith(end, list)
+
+      assert {
+        r == (false)
+      }
+    }
+
+    test("endsWith true") - {
+
+      val list = List(1, 1, 3, 4, 5)
+      val end = List(3, 4, 5)
+      var r = Lists.endsWith(end, list)
 
       assert {
 
-        r == List(33)
+        r == (true)
       }
     }
 
