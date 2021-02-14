@@ -1,7 +1,7 @@
 [
     {
         "label": "mill.scalalib.ZincWorkerModule.scalalibClasspath",
-        "millis": 0,
+        "millis": 1,
         "cached": true
     },
     {
@@ -51,7 +51,7 @@
     },
     {
         "label": "lule.allSources",
-        "millis": 0,
+        "millis": 1,
         "cached": false
     },
     {
@@ -61,12 +61,12 @@
     },
     {
         "label": "lule.transitiveLocalClasspath",
-        "millis": 1,
+        "millis": 0,
         "cached": true
     },
     {
         "label": "lule.resources",
-        "millis": 0,
+        "millis": 1,
         "cached": false
     },
     {
@@ -151,22 +151,22 @@
     },
     {
         "label": "lule.compile",
-        "millis": 117,
+        "millis": 182,
         "cached": false
     },
     {
         "label": "lule.test.upstreamCompileOutput",
-        "millis": 0,
+        "millis": 1,
         "cached": true
     },
     {
         "label": "lule.test.sources",
-        "millis": 2,
+        "millis": 1,
         "cached": false
     },
     {
         "label": "lule.test.generatedSources",
-        "millis": 1,
+        "millis": 0,
         "cached": true
     },
     {
@@ -221,7 +221,7 @@
     },
     {
         "label": "lule.test.scalaLibraryIvyDeps",
-        "millis": 0,
+        "millis": 1,
         "cached": true
     },
     {
@@ -251,7 +251,7 @@
     },
     {
         "label": "lule.test.compile",
-        "millis": 2,
+        "millis": 0,
         "cached": true
     },
     {
@@ -261,7 +261,7 @@
     },
     {
         "label": "lule.test.runIvyDeps",
-        "millis": 1,
+        "millis": 0,
         "cached": true
     },
     {
@@ -271,7 +271,7 @@
     },
     {
         "label": "lule.test.upstreamAssemblyClasspath",
-        "millis": 0,
+        "millis": 1,
         "cached": true
     },
     {
@@ -286,7 +286,7 @@
     },
     {
         "label": "lule.test.test",
-        "millis": 970,
+        "millis": 1088,
         "cached": false
     }
 ]
