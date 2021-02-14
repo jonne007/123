@@ -1,7 +1,7 @@
 {
     "value": [
         "ref:29ac1ab0:/home/jonne007/work/123/lule/src/lesson04/MyMath.scala",
-        "ref:cbf9ad39:/home/jonne007/work/123/lule/src/lesson04/FizzBuzz.scala",
+        "ref:81893c99:/home/jonne007/work/123/lule/src/lesson04/FizzBuzz.scala",
         "ref:d41bd54f:/home/jonne007/work/123/lule/src/Main.scala",
         "ref:4db1ebff:/home/jonne007/work/123/lule/src/demo/Quiz.scala",
         "ref:02b8e593:/home/jonne007/work/123/lule/src/demo/Dice.scala",
@@ -9,10 +9,10 @@
         "ref:fcf9f57a:/home/jonne007/work/123/lule/src/demo/Loops.scala",
         "ref:ebb7a5cf:/home/jonne007/work/123/lule/src/demo/Types.scala",
         "ref:4d279ad3:/home/jonne007/work/123/lule/src/demo/Lists.scala",
-        "ref:1c934a00:/home/jonne007/work/123/lule/src/lesson02/ListManipulation.scala",
+        "ref:f4294c07:/home/jonne007/work/123/lule/src/lesson02/ListManipulation.scala",
         "ref:f2243f17:/home/jonne007/work/123/lule/src/HelloInteractive.scala",
         "ref:ed3d17c7:/home/jonne007/work/123/lule/src/lesson03/PingPong.scala"
     ],
-    "valueHash": -361910221,
-    "inputsHash": 905682362
+    "valueHash": -1641408517,
+    "inputsHash": -1831831059
 }

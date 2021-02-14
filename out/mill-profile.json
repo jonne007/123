@@ -26,7 +26,7 @@
     },
     {
         "label": "mill.scalalib.ZincWorkerModule.classpath",
-        "millis": 1,
+        "millis": 0,
         "cached": true
     },
     {
@@ -41,7 +41,7 @@
     },
     {
         "label": "lule.sources",
-        "millis": 1,
+        "millis": 5,
         "cached": false
     },
     {
@@ -101,12 +101,12 @@
     },
     {
         "label": "lule.scalaLibraryIvyDeps",
-        "millis": 1,
+        "millis": 0,
         "cached": true
     },
     {
         "label": "lule.ivyDeps",
-        "millis": 0,
+        "millis": 1,
         "cached": true
     },
     {
@@ -151,13 +151,13 @@
     },
     {
         "label": "lule.compile",
-        "millis": 182,
+        "millis": 131,
         "cached": false
     },
     {
         "label": "lule.test.upstreamCompileOutput",
         "millis": 1,
-        "cached": true
+        "cached": false
     },
     {
         "label": "lule.test.sources",
@@ -181,13 +181,13 @@
     },
     {
         "label": "lule.localClasspath",
-        "millis": 0,
-        "cached": true
+        "millis": 1,
+        "cached": false
     },
     {
         "label": "lule.test.transitiveLocalClasspath",
-        "millis": 0,
-        "cached": true
+        "millis": 2,
+        "cached": false
     },
     {
         "label": "lule.test.unmanagedClasspath",
@@ -221,7 +221,7 @@
     },
     {
         "label": "lule.test.scalaLibraryIvyDeps",
-        "millis": 1,
+        "millis": 0,
         "cached": true
     },
     {
@@ -241,8 +241,8 @@
     },
     {
         "label": "lule.test.compileClasspath",
-        "millis": 0,
-        "cached": true
+        "millis": 1,
+        "cached": false
     },
     {
         "label": "lule.test.scalaCompilerClasspath",
@@ -251,8 +251,8 @@
     },
     {
         "label": "lule.test.compile",
-        "millis": 0,
-        "cached": true
+        "millis": 28,
+        "cached": false
     },
     {
         "label": "lule.test.localClasspath",
@@ -272,12 +272,12 @@
     {
         "label": "lule.test.upstreamAssemblyClasspath",
         "millis": 1,
-        "cached": true
+        "cached": false
     },
     {
         "label": "lule.test.runClasspath",
-        "millis": 0,
-        "cached": true
+        "millis": 4,
+        "cached": false
     },
     {
         "label": "lule.test.forkWorkingDir",
@@ -286,7 +286,7 @@
     },
     {
         "label": "lule.test.test",
-        "millis": 1088,
+        "millis": 1029,
         "cached": false
     }
 ]
