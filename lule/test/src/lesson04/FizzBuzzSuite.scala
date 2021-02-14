@@ -7,7 +7,6 @@ object FizzBuzzSuite extends TestSuite {
 
       val x = (1-15)
       
-
       val res = FizzBuzz.fizzBuzz(x)
 
       assert {
