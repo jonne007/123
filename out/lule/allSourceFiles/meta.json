@@ -1,6 +1,7 @@
 {
     "value": [
         "ref:29ac1ab0:/home/jonne007/work/123/lule/src/lesson04/MyMath.scala",
+        "ref:6ebeb00b:/home/jonne007/work/123/lule/src/lesson04/FizzBuzz.scala",
         "ref:d41bd54f:/home/jonne007/work/123/lule/src/Main.scala",
         "ref:4db1ebff:/home/jonne007/work/123/lule/src/demo/Quiz.scala",
         "ref:02b8e593:/home/jonne007/work/123/lule/src/demo/Dice.scala",
@@ -12,6 +13,6 @@
         "ref:f2243f17:/home/jonne007/work/123/lule/src/HelloInteractive.scala",
         "ref:ed3d17c7:/home/jonne007/work/123/lule/src/lesson03/PingPong.scala"
     ],
-    "valueHash": 1580752025,
-    "inputsHash": -1133846827
+    "valueHash": -1495902674,
+    "inputsHash": 2074780972
 }

@@ -1,9 +1,10 @@
 package lesson04
 import utest._
+import java.math.MathContext
+
 object MyMathSuite extends TestSuite {
 
   val tests = Tests {
-
     test("division") - {
 
       val x = 15
@@ -15,7 +16,6 @@ object MyMathSuite extends TestSuite {
         summa == 5
       }
     }
-
     test("minus") - {
 
       val x = 10
@@ -26,7 +26,6 @@ object MyMathSuite extends TestSuite {
       assert {
         summa == 5
       }
-
     }
     test("multiply") - {
 
@@ -48,7 +47,6 @@ object MyMathSuite extends TestSuite {
 
       assert {
         summa == 6
-
       }
     }
   }
